@@ -1,4 +1,4 @@
-### Hi I'm Shailendra Sethiya👋
+### Hi 👋 I'm Shailendra Sethiya
 
 👨🏼‍💻 Working on ReactJS/ NodeJS/ ExpressJS/ JavaScript/ ECMAScript6/ HTML5/ CCS3/ Bootstrap4/ MongoDB/ koaJS/ Redis/ MYSQL Developer. I have an overall knowledge of application & worked on Simple aspects of NodeJs web service, Developing API's, Integrating Database, As part of coding work on UI Design. I have handled the requirements from initiation to deployment phase, like requirement gathering and analysis, preparing technical designs, developing and testing and the deployment.
 
