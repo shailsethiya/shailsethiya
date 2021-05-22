@@ -1,5 +1,4 @@
 ### Hi 👋 I'm Shailendra Sethiya
-![background]
 ![image](https://user-images.githubusercontent.com/26058501/119227933-04e5f080-bb2e-11eb-9136-bebffc21db25.png)
 
 👨🏼‍💻 Working on ReactJS/ NodeJS/ ExpressJS/ JavaScript/ ECMAScript6/ HTML5/ CCS3/ Bootstrap4/ MongoDB/ koaJS/ Redis/ MYSQL Developer. I have an overall knowledge of application & worked on Simple aspects of NodeJs web service, Developing API's, Integrating Database, As part of coding work on UI Design. I have handled the requirements from initiation to deployment phase, like requirement gathering and analysis, preparing technical designs, developing and testing and the deployment.
@@ -19,5 +18,5 @@
 
 📝Feel free to contact me. Travel enthusiast and willing to relocate.
 C: 898-970-2531
-E: shailendrasethiya@gmail.com 
+E: shailendrasethiya@gmail.com
 
