@@ -1,4 +1,4 @@
-### Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Shailendra Sethiya
+### Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"> I'm Shailendra Sethiya
 
 ![image](https://user-images.githubusercontent.com/26058501/119227933-04e5f080-bb2e-11eb-9136-bebffc21db25.png)
 
