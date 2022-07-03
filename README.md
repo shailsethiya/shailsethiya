@@ -2,20 +2,18 @@
 
 ![image](https://user-images.githubusercontent.com/26058501/119227933-04e5f080-bb2e-11eb-9136-bebffc21db25.png)
 
-### 👨🏼‍💻 Working on
-ReactJS/ NodeJS/ ExpressJS/ JavaScript/ ECMAScript6/ HTML5/ CCS3/ Bootstrap4/ MongoDB/ koaJS/ Redis/ MYSQL Developer. I have an overall knowledge of application & worked on Simple aspects of NodeJs web service, Developing API's, Integrating Database, As part of coding work on UI Design. I have handled the requirements from initiation to deployment phase, like requirement gathering and analysis, preparing technical designs, developing and testing and the deployment.
+### 👨🏼‍💻 Having 5+ years of extensive hands-on experience in the software industry. Working on ReactJS/ NodeJS/ ExpressJS/ JavaScript/ ECMAScript6/ HTML5/ CCS3/ Bootstrap4/ MongoDB/ koaJS/ Redis/ MYSQL Developer. I have an overall knowledge of applications & worked on Simple aspects of NodeJs web service, Developing APIs, Integrating databases, As part of coding work on UI Design. I have handled the requirements from initiation to deployment phases, like requirement gathering and analysis, preparing technical designs, developing and testing, and deployment.
 
-### 💻 What I've:
-★ I am the dynamic, proactive and ambitious person who has developed a good interpersonal skill and abilities in HTML5, CSS3, JavaScript, ECMAScript6, ReactJS, NodeJS, ExpressJS, MongoDB, MYSQL, Redis, KoaJS, Jira, Bitbucket, Github, Heroku, Kanban, Jenkins, Docker, Blockchain, Bitcoin. I have experience of working with agile methodologies with hands-on experience of tools like JIRA and confluence. I have been using Secure SDLC in my projects for quite a while.
+I am a dynamic, proactive and ambitious person who has developed good interpersonal skills and abilities in HTML5, CSS3, JavaScript, ECMAScript6, ReactJS, React Hooks, Redux, NodeJS, ExpressJS, MongoDB, MYSQL, Redis, KoaJS, Jira, Bitbucket, Github, Heroku, Kanban, Jenkins, Docker, Blockchain, Bitcoin. I have experience of working with agile methodologies with hands-on experience of tools like JIRA and confluence. I have been using Secure SDLC in my projects for quite a while.
 
 ### 🔎 Relevant Keywords:
-★ HTML5, CSS3, Bootstrap4, JavaScript, ECMAScript6, ReactJS, NodeJS, ExpressJS, MongoDB, Webpack, MYSQL, Redis, KoaJS, Jira, Bitbucket, Heroku, Kanban, Jenkins, Docker, Blockchain, Bitcoin.
+★ HTML5, CSS3, Bootstrap4, JavaScript, ECMAScript6, ReactJS, React Hooks, NodeJS, ExpressJS, MongoDB, Jest, Enzyme, Unit Test Case, Webpack, MYSQL, Redis, KoaJS, Jira, Agile, Bitbucket, Heroku, Kanban, Jenkins, Docker, Blockchain, Bitcoin, Cryptocurrency.
 
 ### 📘Learning Enthusiasm:
 ★ I like to explore and implement new technologies and have implemented new technologies in projects before. I like to read technical articles and blogs to keep myself updated.
 
 ### 🗣️Let's talk about:
-★ AI, Machine Learning, IOT, Deep Learning, Blockchain (cryptocurrency), Hadoop, cloud computing etc.
+★  JavaScript, React, AI, Machine Learning, IOT, Deep Learning, Blockchain (cryptocurrency), Hadoop, cloud computing and Latest Technology.
 Ⓒ ℗
 
 ### 📝Feel free to contact me. Travel enthusiast and willing to relocate.
