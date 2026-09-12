@@ -2,12 +2,14 @@
 
 ![image](https://user-images.githubusercontent.com/26058501/119227933-04e5f080-bb2e-11eb-9136-bebffc21db25.png)
 
-👨🏼‍💻 Having 10+ years of extensive hands-on experience in the software industry. Working on ReactJS/ NodeJS/ ExpressJS/ JavaScript/ ECMAScript6/ HTML5/ CCS3/ Bootstrap4/ MongoDB/ koaJS/ Redis/ MYSQL Developer/DevOps/ ML Engineering/ AI Engineering. I have an overall knowledge of applications & worked on Simple aspects of NodeJs web service, Developing APIs, Integrating databases, As part of coding work on UI Design. I have handled the requirements from initiation to deployment phases, like requirement gathering and analysis, preparing technical designs, developing and testing, and deployment.
+👨🏼‍💻 Technology leader with 10+ years of hands-on experience in designing, developing, and delivering scalable enterprise applications across Web, Cloud, AI, and Full-Stack ecosystems. Expertise in React.js, JavaScript/TypeScript, Node.js, Express.js, Micro Frontends, Cloud Technologies, DevOps, AI Engineering, and ML Engineering.
 
-I am a dynamic, proactive and ambitious person who has developed good interpersonal skills and abilities in HTML5, CSS3, JavaScript, ECMAScript6, ReactJS, React Hooks, Redux, NodeJS, ExpressJS, MongoDB, MYSQL, Redis, KoaJS, Jira, Bitbucket, Github, Heroku, Kanban, Jenkins, Docker, Blockchain, Bitcoin. I have experience of working with agile methodologies with hands-on experience of tools like JIRA and confluence. I have been using Secure SDLC in my projects for quite a while.
+Strong experience in driving complete software development lifecycle activities from requirement gathering, solution architecture, technical design, development, testing, deployment, and production support. Passionate about building high-performance, secure, and user-centric applications while leveraging modern AI technologies to improve developer productivity and business outcomes.
+
+Experienced in developing scalable APIs, integrating databases, designing responsive user interfaces, implementing secure SDLC practices, and delivering solutions using Agile methodologies.
 
 ### 🔎 Relevant Keywords:
-★ HTML5, CSS3, Bootstrap4, JavaScript, ECMAScript6, ReactJS, React Hooks, NodeJS, ExpressJS, MongoDB, Jest, Enzyme, Unit Test Case, Webpack, MYSQL, Redis, KoaJS, Jira, Agile, Bitbucket, Heroku, Kanban, Jenkins, Docker, Blockchain, Bitcoin, Cryptocurrency.
+★React.js, TypeScript, JavaScript, Next.js, React Hooks, Redux Toolkit, Node.js, Express.js, REST API, Micro Frontends, HTML5, CSS3, Tailwind CSS, MongoDB, MySQL, Redis, AWS, Docker, Jenkins, CI/CD, GitHub Actions, Jest, React Testing Library, Agile, Scrum, Jira, Confluence, DevOps, LLM, Generative AI, Prompt Engineering, RAG, AI Agents, Agentic AI, LangChain, LangGraph, MCP, Machine Learning, Secure SDLC, System Design, Cloud Computing.
 
 ### 📘Learning Enthusiasm:
 ★ I like to explore and implement new technologies and have implemented new technologies in projects before. I like to read technical articles and blogs to keep myself updated.
